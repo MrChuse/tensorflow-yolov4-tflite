@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+backup/
+checkpoints/
+data/yolov4.weights
+obj/
+results/
+*.a
+
