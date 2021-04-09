@@ -6,7 +6,7 @@ import time
 
 import my_detect
 
-PORT = 9001
+PORT = 9002
 IP = '' # all ips
 POSSIBLE_CONNECTIONS = 1
 CHUNK = 4096
