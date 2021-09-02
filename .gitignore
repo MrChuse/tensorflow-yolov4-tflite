@@ -2,8 +2,11 @@
 __pycache__/
 backup/
 checkpoints/
-data/yolov4.weights
+*.weights
 obj/
 results/
 *.a
-
+venv/
+.vs/
+*.prof
+cuda/
